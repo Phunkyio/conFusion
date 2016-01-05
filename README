@@ -4,3 +4,8 @@ v0.1
 - added contactus page
 - fixed contactus links in aboutus and index
 - Added icons to Menu and Contact in navbar in index.html, contactus.html, and aboutus.html
+
+v0.02
+contactus.html:
+- Added button group
+- Added form for feedback
