@@ -19,3 +19,9 @@ aboutus.html:
 v0.04
 - added images, brand logo, and jumbotron img
 - added label and badge to index.html
+
+v0.05
+- added form for username and password in navbar for all pages of website
+- added reserve table button to jumbotron on all pages
+- added reserve table form to index.html
+- reformatted 2nd row in index.html to media content
