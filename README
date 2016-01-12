@@ -25,3 +25,7 @@ v0.05
 - added reserve table button to jumbotron on all pages
 - added reserve table form to index.html
 - reformatted 2nd row in index.html to media content
+
+v0.06
+- added tab navigation to aboutus.html
+- added tab navigation style to mystyle.css
