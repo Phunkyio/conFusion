@@ -29,3 +29,7 @@ v0.05
 v0.06
 - added tab navigation to aboutus.html
 - added tab navigation style to mystyle.css
+
+v0.07
+- changed tab nav in aboutus.html to accordian navbar
+- added scrollspy nav to aboutus.html
