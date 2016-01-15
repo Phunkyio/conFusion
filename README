@@ -33,3 +33,4 @@ v0.06
 v0.07
 - changed tab nav in aboutus.html to accordian navbar
 - added scrollspy nav to aboutus.html
+- added tooltip and login modal to index.html
