@@ -35,3 +35,6 @@ v0.07
 - added scrollspy nav to aboutus.html
 - added tooltip and login modal to index.html
 - added coursel to index.html
+
+v0.08
+-moved reserve table to modal
