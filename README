@@ -38,3 +38,12 @@ v0.07
 
 v0.08
 -moved reserve table to modal
+
+v0.09
+-added play and pause to carousel
+- added node.js server
+- package json
+- npm prompt
+- added mystyles.less
+- npm lessc
+- installed bower
